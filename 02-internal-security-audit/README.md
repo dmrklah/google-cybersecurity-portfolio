@@ -18,6 +18,8 @@ Risk score: **8/10 (High)**
 | File | Description |
 |------|-------------|
 | `controls-compliance-checklist.pdf` | Completed audit — controls assessment + compliance checklist + recommendations |
+| `botium-toys-scope-goals-risk-assessment.pdf` | Scope, goals, and risk assessment report |
+| `control-categories.pdf` | Control categories reference document |
 
 ---
 
