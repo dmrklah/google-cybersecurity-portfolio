@@ -4,14 +4,15 @@ This repository contains my portfolio projects completed as part of the [Google 
 
 ---
 
-## 📂 Projects
+## 🗂️ Projects
 
-| # | Klasör | Çalışma | Kurs |
-|---|--------|---------|------|
-| 01 | [01-professional-statement](./01-professional-statement/) | Professional Statement | Course 1: Foundations of Cybersecurity |
-| 02 | [02-internal-security-audit](./02-internal-security-audit/) | Botium Toys — İç Güvenlik Denetimi | Course 2: Play It Safe |
-| 03 | [03-nist-csf-incident-report](./03-nist-csf-incident-report/) | NIST CSF — Incident Report Analysis (DoS Attack) | Course 3: Connect and Protect |
-| 04 | [04-linux-file-permissions](./04-linux-file-permissions/) | Linux File Permissions & SQL Filters | Course 4: Tools of the Trade |
+| # | Folder | Activity | Course |
+|---|---|---|---|
+| 01 | [01-professional-statement](./01-professional-statement) | Professional Statement | Course 1: Foundations of Cybersecurity |
+| 02 | [02-internal-security-audit](./02-internal-security-audit) | Botium Toys — Internal Security Audit | Course 2: Play It Safe: Manage Security Risks |
+| 03 | [03-nist-csf-incident-report](./03-nist-csf-incident-report) | NIST CSF — Incident Report Analysis (DoS Attack) | Course 3: Connect and Protect: Networks and Network Security |
+| 04 | [04-linux-file-permissions](./04-linux-file-permissions) | Linux File Permissions & SQL Filters | Course 4: Tools of the Trade: Linux and SQL |
+| 05 | [05-vulnerability-assessment](./05-vulnerability-assessment) | Vulnerability Assessment Report | Course 5: Assets, Threats, and Vulnerabilities |
 
 ---
 
@@ -21,10 +22,8 @@ This repository contains my portfolio projects completed as part of the [Google 
 - Risk Assessment & Controls
 - PCI DSS, GDPR, SOC 1/2
 - Network Security
-- Linux File Permissions
-- SQL Filtering
+- Linux & SQL
+- File Permissions & SQL Filtering
+- Vulnerability Assessment (NIST SP 800-30)
+- Threat Modeling & Risk Scoring
 - Hack The Box (in progress)
-
----
-
-> New projects will be added as the programme progresses.
