@@ -1,58 +1,35 @@
-# Incident Handler's Journal 📓
 
-A portfolio artifact completed as part of the **Google Cybersecurity Professional Certificate** program. This journal documents hands-on incident investigation and tool exploration activities across the course.
+# Google Cybersecurity Professional Certificate — Portfolio
 
----
-
-## 📁 Contents
-
-| File | Description |
-|------|-------------|
-| `incident_handlers_journal_completed.docx` | Completed journal with 4 entries and a reflection section |
+This repository contains my portfolio projects completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
 ---
 
-## 📝 Journal Entries
+## 📁 Projects
 
-### Entry 1 — Ransomware Incident Investigation
-Analyzed a ransomware attack targeting a U.S. healthcare clinic using the **NIST Incident Response Lifecycle** framework. Applied an incident response playbook to guide containment and recovery decisions. Documented the incident using the 5 W's methodology.
-
-- **Phase:** Detection and Analysis
-- **Tools:** Incident response playbook, NIST CSF
-
-### Entry 2 — Suspicious File Hash Investigation
-Investigated a malicious file hash flagged by an IDS alert. Used **VirusTotal** to cross-reference the SHA-256 hash against multiple threat intelligence sources and antivirus engines to assess the risk level.
-
-- **Phase:** Detection and Analysis
-- **Tools:** VirusTotal, SHA-256 hash analysis
-
-### Entry 3 — Network Packet Analysis
-Captured and analyzed network traffic using both **tcpdump** (CLI) and **Wireshark** (GUI). Practiced applying filters to isolate specific protocols and IP addresses, and examined packet structure to identify network anomalies.
-
-- **Phase:** Detection and Analysis
-- **Tools:** tcpdump, Wireshark
-
-### Entry 4 — SIEM & IDS Tool Exploration
-Explored three security platforms for log analysis and threat detection. Wrote and interpreted Suricata rules, queried log data with Splunk's SPL, and performed UDM-based threat hunting in Chronicle.
-
-- **Phase:** Detection and Analysis
-- **Tools:** Suricata, Splunk, Google Chronicle
+| # | Folder | Activity | Course |
+|---|--------|----------|--------|
+| 01 | [01-professional-statement](./01-professional-statement) | Professional Statement | Course 1: Foundations of Cybersecurity |
+| 02 | [02-internal-security-audit](./02-internal-security-audit) | Botium Toys — Internal Security Audit | Course 2: Play It Safe: Manage Security Risks |
+| 03 | [03-nist-csf-incident-report](./03-nist-csf-incident-report) | NIST CSF — Incident Report Analysis (DoS Attack) | Course 3: Connect and Protect: Networks and Network Security |
+| 04 | [04-linux-file-permissions](./04-linux-file-permissions) | Linux File Permissions & SQL Filters | Course 4: Tools of the Trade: Linux and SQL |
+| 05 | [05-vulnerability-assessment](./05-vulnerability-assessment) | Vulnerability Assessment Report | Course 5: Assets, Threats, and Vulnerabilities |
+| 06 | [06-incident-handlers-journal](./06-incident-handlers-journal) | Incident Handler's Journal | Course 6: Sound the Alarm: Detection and Response |
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Skills
 
-| Tool | Category | Purpose |
-|------|----------|---------|
-| Wireshark | Network Analysis | GUI-based packet capture and inspection |
-| tcpdump | Network Analysis | CLI-based packet capture |
-| VirusTotal | Threat Intelligence | File hash and IoC analysis |
-| Suricata | IDS/IPS | Signature-based intrusion detection, EVE JSON output |
-| Splunk | SIEM | Log querying with SPL (Search Processing Language) |
-| Google Chronicle | SIEM | UDM-based threat hunting and log correlation |
-
----
-
-## 🎓 About
-
-This journal is part of the **Google Cybersecurity Professional Certificate** offered on Coursera — an 8-course program covering foundations of cybersecurity, network security, Linux, SQL, and security operations tools.
+- NIST Cybersecurity Framework (CSF)
+- Risk Assessment & Controls
+- PCI DSS, GDPR, SOC 1/2
+- Network Security
+- Linux & SQL
+- File Permissions & SQL Filtering
+- Vulnerability Assessment (NIST SP 800-30)
+- Threat Modeling & Risk Scoring
+- Incident Detection & Response
+- SIEM Tools (Splunk, Chronicle)
+- IDS/IPS (Suricata)
+- Packet Analysis (Wireshark, tcpdump)
+- Hack The Box (in progress)
