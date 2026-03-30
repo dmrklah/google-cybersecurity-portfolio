@@ -1,11 +1,10 @@
-
 # Google Cybersecurity Professional Certificate — Portfolio
 
 This repository contains my portfolio projects completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
 ---
 
-## 📁 Projects
+## 🗂️ Projects
 
 | # | Folder | Activity | Course |
 |---|--------|----------|--------|
@@ -15,6 +14,8 @@ This repository contains my portfolio projects completed as part of the [Google 
 | 04 | [04-linux-file-permissions](./04-linux-file-permissions) | Linux File Permissions & SQL Filters | Course 4: Tools of the Trade: Linux and SQL |
 | 05 | [05-vulnerability-assessment](./05-vulnerability-assessment) | Vulnerability Assessment Report | Course 5: Assets, Threats, and Vulnerabilities |
 | 06 | [06-incident-handlers-journal](./06-incident-handlers-journal) | Incident Handler's Journal | Course 6: Sound the Alarm: Detection and Response |
+| 07 | [07-python-file-update-algorithm](./07-python-file-update-algorithm) | Update a File Through a Python Algorithm | Course 7: Automate Cybersecurity Tasks with Python |
+| 08 | *(coming soon)* | Prepare for Cybersecurity Jobs | Course 8: Put It to Work: Prepare for Cybersecurity Jobs |
 
 ---
 
@@ -32,4 +33,5 @@ This repository contains my portfolio projects completed as part of the [Google 
 - SIEM Tools (Splunk, Chronicle)
 - IDS/IPS (Suricata)
 - Packet Analysis (Wireshark, tcpdump)
+- Python Automation & File Handling
 - Hack The Box (in progress)
